@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: Slidex
-	Description: Shows the latest episodes of your podcast
+	Description: Crie slides para exibir em sua home page
 	Author: Renan Souza
 	Version: 0.1
 */ 
